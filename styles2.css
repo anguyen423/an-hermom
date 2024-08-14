@@ -64,7 +64,12 @@ body {
     padding: 20px;
     width: calc(100% - 270px);
 }
-
+.content1 {
+    align-items: center;
+    margin-left: 0px;
+    padding: 20px;
+    width: calc(100% - 270px);
+}
 .hero {
     background-image: url('images/hero.jpg');
     background-size: cover;
