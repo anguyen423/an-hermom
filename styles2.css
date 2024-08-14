@@ -157,7 +157,7 @@ section h2 {
 }
 
 .portfolio .portfolio-item img:hover {
-    transform: scale(.5);
+    transform: scale(1.25);
 }
 
 .portfolio .portfolio-item h3 {
